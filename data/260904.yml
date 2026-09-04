@@ -1,11 +1,13 @@
 about:
-  description: Your not yet complete terminal code review tool
+  description:
+  |
+    Your not yet complete terminal code review tool
   license: MIT
   homepage: https://oyo.victorare.mu
   head: 9c1aebf
   archived: false
   latestVersion: v0.1.57
-  collectedAt: 2026-09-04T04:22:02Z
+  collectedAt: 2026-09-04T19:28:53Z
 timeline:
   created: 2025-12-21
   lastCommit: 2026-08-12
@@ -16,7 +18,7 @@ popularity:
   fork: 8
   release: 53
   contributor: 6
-  pullRequest: 8
+  pullRequest: 132
   issue: 13
 language:
   Rust: 3633355
@@ -26,7 +28,7 @@ language:
   JavaScript: 19172
   Nix: 3103
   TypeScript: 2434
-totalLine: 3744769
+totalBytes: 3744769
 recent:
   last30d:
     since: 2026-08-05
@@ -36,6 +38,14 @@ recent:
     closedIssue: 2
     openIssue: 0
     commit: 4
+  last60d:
+    since: 2026-07-06
+    release: 17
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 50
   last90d:
     since: 2026-06-06
     release: 21
@@ -60,3 +70,21 @@ recent:
     closedIssue: 12
     openIssue: 1
     commit: 268
+  last720d:
+    since: 2024-09-14
+    release: 53
+    mergedPR: 124
+    openPR: 0
+    closedIssue: 12
+    openIssue: 1
+    commit: 269
+total:
+  release: 53
+  mergedPR: 124
+  openPR: 0
+  closedIssue: 12
+  openIssue: 1
+  commit: 269
+---
+---
+
