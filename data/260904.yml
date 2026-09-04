@@ -7,7 +7,7 @@ about:
   head: 9c1aebf
   archived: false
   latestVersion: v0.1.57
-  collectedAt: 2026-09-04T19:28:53Z
+  collectedAt: 2026-09-04T21:05:23Z
 timeline:
   created: 2025-12-21
   lastCommit: 2026-08-12
@@ -86,5 +86,68 @@ total:
   openIssue: 1
   commit: 269
 ---
+path: /home/runner/.x-repo/github.com/ahkohd/oyo
+collectedAt: 2026-09-04T21:05:23Z
+loc:
+  Rust:
+    code: 93441
+    comments: 1434
+    blanks: 7736
+    files: 66
+  Json:
+    code: 11744
+    comments: 0
+    blanks: 0
+    files: 36
+  Css:
+    code: 488
+    comments: 60
+    blanks: 42
+    files: 2
+  Sh:
+    code: 445
+    comments: 126
+    blanks: 45
+    files: 5
+  JavaScript:
+    code: 411
+    comments: 52
+    blanks: 58
+    files: 9
+  Toml:
+    code: 154
+    comments: 14
+    blanks: 20
+    files: 7
+  Nix:
+    code: 102
+    comments: 4
+    blanks: 3
+    files: 1
+  TypeScript:
+    code: 62
+    comments: 0
+    blanks: 15
+    files: 2
+  Yaml:
+    code: 32
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3138
+    blanks: 1379
+    files: 26
+total:
+  code: 107508
+  comments: 6084
+  blanks: 9366
+  files: 156
 ---
 
