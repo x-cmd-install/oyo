@@ -5,7 +5,7 @@ about:
   head: 9c1aebf
   archived: false
   latestVersion: "v0.1.57"
-  collectedAt: 2026-09-07T04:33:10Z
+  collectedAt: 2026-09-07T19:49:24Z
 timeline:
   created: 2025-12-21
   lastCommit: 2026-08-12
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 345
   watcher: 1
-  fork: 8
+  fork: 9
   release: 53
   contributor: 6
-  pullRequest: 132
+  pullRequest: 133
   issue: 13
 language:
   Rust: 3633355
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 2
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-09
     release: 14
     mergedPR: 8
-    openPR: 0
+    openPR: 1
     closedIssue: 3
     openIssue: 0
     commit: 20
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-09
     release: 21
     mergedPR: 22
-    openPR: 0
+    openPR: 1
     closedIssue: 5
     openIssue: 0
     commit: 97
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-11
     release: 30
     mergedPR: 66
-    openPR: 0
+    openPR: 1
     closedIssue: 8
     openIssue: 1
     commit: 157
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-12
     release: 53
     mergedPR: 124
-    openPR: 0
+    openPR: 1
     closedIssue: 12
     openIssue: 1
     commit: 268
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-17
     release: 53
     mergedPR: 124
-    openPR: 0
+    openPR: 1
     closedIssue: 12
     openIssue: 1
     commit: 269
 total:
   release: 53
   mergedPR: 124
-  openPR: 0
+  openPR: 1
   closedIssue: 12
   openIssue: 1
   commit: 269
 ---
 path: /home/runner/.x-repo/github.com/ahkohd/oyo
-collectedAt: 2026-09-07T04:33:11Z
+collectedAt: 2026-09-07T19:49:27Z
 loc:
   Rust:
     code: 93441
@@ -151,7 +151,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:12+00:00
+  collectedAt: 2026-09-07T19:49:33+00:00
   platform:
     darwin/arm64:
       name:  oy-aarch64-apple-darwin.tar.gz
