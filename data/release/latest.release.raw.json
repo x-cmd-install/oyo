@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7790337,
       "digest": "sha256:28abd8543de0eec11457d6dcc27f2c545e022ee6430bfe7e8d5b14b3d0fa6e6f",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-08-12T15:58:52Z",
       "updated_at": "2026-08-12T15:58:53Z",
       "browser_download_url": "https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8801289,
       "digest": "sha256:76f9095dd18aff8a540bfdda7737468a2900b26c7d976bbaa071341db02aa8b3",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-12T15:58:52Z",
       "updated_at": "2026-08-12T15:58:53Z",
       "browser_download_url": "https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-unknown-linux-gnu.tar.gz"
