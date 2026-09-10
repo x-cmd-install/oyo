@@ -23,7 +23,15 @@ x install oyo
 - **Latest**: `v0.1.57` (2026-08-12)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 4
-- **Published**: 2026-08-12T15:59:21Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-apple-darwin.tar.gz) | 7.4 MiB | `native/darwin/arm64` |
+| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-unknown-linux-gnu.tar.gz) | 8.1 MiB | `native/linux/arm64/glibc` |
+| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/x64` |
+| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-unknown-linux-gnu.tar.gz) | 8.4 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -58,8 +66,8 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oyo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/oyo.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/oyo.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:31Z._
