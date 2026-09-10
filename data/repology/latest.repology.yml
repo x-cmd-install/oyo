@@ -1,0 +1,62 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: oyo
+  binname: oyo
+  visiblename: oyo
+  version: 0.1.37
+  origversion: 0.1.37-r0
+  status: outdated
+  summary: diff & review TUI
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: oyo
+  binname: oyo-doc
+  visiblename: oyo-doc
+  version: 0.1.37
+  origversion: 0.1.37-r0
+  status: outdated
+  summary: diff & review TUI (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: aur
+  srcname: oyo
+  binname: oyo
+  visiblename: oyo
+  version: 0.1.57
+  origversion: 0.1.57-1
+  status: newest
+  summary: 'A diff viewer that works two ways: step through changes or review a classic scrollable diff'
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: oyo-bin
+  binname: oyo-bin
+  visiblename: oyo-bin
+  version: 0.1.57
+  origversion: 0.1.57-1
+  status: newest
+  summary: 'A diff viewer that works two ways: step through changes or review a classic scrollable diff'
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: textproc/oyo
+  binname: oyo
+  visiblename: textproc/oyo
+  version: 0.1.57
+  origversion: 0.1.57_1
+  status: newest
+  summary: Step-through diff viewer
+  maintainers:
+    - nivit@freebsd.org
+  categories:
+    - textproc
