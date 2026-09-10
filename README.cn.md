@@ -12,6 +12,18 @@ Your not yet complete terminal code review tool
 x install oyo
 ```
 
+## 代码规模
+
+合计: **106,884** 行代码（覆盖前 5 种语言、共 **118** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 93,441 | 1,434 | 7,736 | 66 |
+| Json | 11,744 | 0 | 0 | 36 |
+| Css | 488 | 60 | 42 | 2 |
+| Sh | 445 | 126 | 45 | 5 |
+| JavaScript | 411 | 52 | 58 | 9 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ahkohd/oyo>
@@ -23,15 +35,6 @@ x install oyo
 - **最新版本**: `v0.1.57` (2026-08-12)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 4 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-apple-darwin.tar.gz) | 7.4 MiB | `native/darwin/arm64` |
-| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-unknown-linux-gnu.tar.gz) | 8.1 MiB | `native/linux/arm64/glibc` |
-| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/x64` |
-| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-unknown-linux-gnu.tar.gz) | 8.4 MiB | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -46,20 +49,28 @@ x install oyo
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 3 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 11 | 9 | 0 | 3 | 0 | 21 |
 | 90d | 2026-06-12 | 20 | 22 | 0 | 5 | 0 | 98 |
+| last180d | 2026-03-14 | 30 | 67 | 0 | 8 | 1 | 158 |
 | 360d | 2025-09-15 | 53 | 125 | 0 | 12 | 1 | 269 |
+| last720d | 2024-09-20 | 53 | 125 | 0 | 12 | 1 | 270 |
 
-## 代码规模
+## Release 资产
 
-合计: **106,884** 行代码（覆盖前 5 种语言、共 **118** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-apple-darwin.tar.gz) | 7.4 MiB | `native/darwin/arm64` |
+| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-aarch64-unknown-linux-gnu.tar.gz) | 8.1 MiB | `native/linux/arm64/glibc` |
+| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/x64` |
+| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-unknown-linux-gnu.tar.gz) | 8.4 MiB | `native/linux/x64/glibc` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 93,441 | 1,434 | 7,736 | 66 |
-| Json | 11,744 | 0 | 0 | 36 |
-| Css | 488 | 60 | 42 | 2 |
-| Sh | 445 | 126 | 45 | 5 |
-| JavaScript | 411 | 52 | 58 | 9 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/oyo) 上共有 **5** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Alpine edge | `0.1.37` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -70,4 +81,4 @@ oyo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:22:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:40:13Z._
