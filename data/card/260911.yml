@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.57"
   latestRelease: "v0.1.57"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:32:34Z
+  collectedAt: 2026-09-11T20:26:12Z
 timeline:
   created: 2025-12-21
   lastCommit: 2026-09-09
@@ -89,7 +89,7 @@ total:
   commit: 270
 ---
 path: /home/runner/.x-repo/github.com/ahkohd/oyo
-collectedAt: 2026-09-11T04:32:36Z
+collectedAt: 2026-09-11T20:26:16Z
 loc:
   Rust:
     code: 93441
