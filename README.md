@@ -38,7 +38,7 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 346 · **Forks**: 9 · **Open issues**: 13 · **Contributors**: 7
+- **Stars**: 347 · **Forks**: 9 · **Open issues**: 13 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-15 | 6 | 9 | 0 | 3 | 0 | 11 |
-| 90d | 2026-06-15 | 20 | 20 | 0 | 4 | 0 | 94 |
-| last180d | 2026-03-17 | 30 | 65 | 0 | 8 | 0 | 155 |
-| 360d | 2025-09-18 | 53 | 125 | 0 | 12 | 1 | 269 |
-| last720d | 2024-09-23 | 53 | 125 | 0 | 12 | 1 | 270 |
+| 30d | 2026-08-15 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-16 | 4 | 9 | 0 | 3 | 0 | 11 |
+| 90d | 2026-06-16 | 19 | 19 | 0 | 3 | 0 | 94 |
+| last180d | 2026-03-18 | 30 | 65 | 0 | 8 | 0 | 155 |
+| 360d | 2025-09-19 | 53 | 125 | 0 | 12 | 1 | 269 |
+| last720d | 2024-09-24 | 53 | 125 | 0 | 12 | 1 | 270 |
 
 ## Release assets
 
@@ -64,14 +64,6 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 | [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-apple-darwin.tar.gz) | 8.0 MiB | `native/darwin/x64` |
 | [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.57/oy-x86_64-unknown-linux-gnu.tar.gz) | 8.4 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/oyo). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Alpine edge | `0.1.37` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oyo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +73,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:41:58Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:58:47Z._
