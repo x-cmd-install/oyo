@@ -38,7 +38,7 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 351 · **Forks**: 9 · **Open issues**: 13 · **Contributors**: 7
+- **Stars**: 352 · **Forks**: 9 · **Open issues**: 13 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-22 | 3 | 7 | 0 | 2 | 0 | 5 |
-| 90d | 2026-06-22 | 19 | 16 | 0 | 3 | 0 | 89 |
-| last180d | 2026-03-24 | 30 | 63 | 0 | 8 | 0 | 155 |
-| 360d | 2025-09-25 | 53 | 125 | 0 | 12 | 1 | 269 |
-| last720d | 2024-09-30 | 53 | 125 | 0 | 12 | 1 | 270 |
+| 30d | 2026-08-22 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-23 | 3 | 3 | 0 | 2 | 0 | 5 |
+| 90d | 2026-06-23 | 18 | 14 | 0 | 3 | 0 | 89 |
+| last180d | 2026-03-25 | 30 | 63 | 0 | 8 | 0 | 155 |
+| 360d | 2025-09-26 | 53 | 125 | 0 | 12 | 1 | 269 |
+| last720d | 2024-10-01 | 53 | 125 | 0 | 12 | 1 | 270 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:50:30Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:52:13Z._
