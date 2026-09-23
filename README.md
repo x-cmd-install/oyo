@@ -4,7 +4,7 @@
 
 Your complete terminal code review tool
 
-[![x-cmd/install — oyo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oyo.svg)](https://x-cmd.com/install/oyo)
+[![x-cmd/install — oyo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/oyo.svg)](https://x-cmd.com/install/oyo)
 
 ## Install
 
@@ -42,18 +42,18 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 125 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 270
+- **Releases**: 53 · **Merged PRs**: 125 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 270
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 1 | 3 | 0 | 2 | 0 | 5 |
-| 90d | 2026-06-24 | 17 | 14 | 0 | 3 | 0 | 89 |
-| last180d | 2026-03-26 | 30 | 63 | 0 | 8 | 0 | 155 |
-| 360d | 2025-09-27 | 53 | 125 | 0 | 12 | 1 | 269 |
-| last720d | 2024-10-02 | 53 | 125 | 0 | 12 | 1 | 270 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 1 | 3 | 1 | 2 | 0 | 5 |
+| 90d | 2026-06-25 | 17 | 14 | 1 | 3 | 0 | 89 |
+| last180d | 2026-03-27 | 30 | 61 | 1 | 8 | 0 | 155 |
+| 360d | 2025-09-28 | 53 | 125 | 1 | 12 | 1 | 269 |
+| last720d | 2024-10-03 | 53 | 125 | 1 | 12 | 1 | 270 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:19Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:46:42Z._
