@@ -14,11 +14,11 @@ x install oyo
 
 ## Code insight
 
-Total: **106,884** lines of code across **118** files in the top 5 languages.
+Total: **109,249** lines of code across **118** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 93,441 | 1,434 | 7,736 | 66 |
+| Rust | 95,806 | 1,441 | 7,904 | 66 |
 | Json | 11,744 | 0 | 0 | 36 |
 | Css | 488 | 60 | 42 | 2 |
 | Sh | 445 | 126 | 45 | 5 |
@@ -33,7 +33,7 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.57` (2026-08-12)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-23
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **106,884** lines of code across **118** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 125 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 270
+- **Releases**: 53 · **Merged PRs**: 127 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 272
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-25 | 1 | 3 | 1 | 2 | 0 | 5 |
-| 90d | 2026-06-25 | 17 | 14 | 1 | 3 | 0 | 89 |
-| last180d | 2026-03-27 | 30 | 61 | 1 | 8 | 0 | 155 |
-| 360d | 2025-09-28 | 53 | 125 | 1 | 12 | 1 | 269 |
-| last720d | 2024-10-03 | 53 | 125 | 1 | 12 | 1 | 270 |
+| 30d | 2026-08-25 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-26 | 1 | 5 | 0 | 2 | 0 | 7 |
+| 90d | 2026-06-26 | 17 | 16 | 0 | 3 | 0 | 91 |
+| last180d | 2026-03-28 | 30 | 63 | 0 | 8 | 0 | 157 |
+| 360d | 2025-09-29 | 53 | 127 | 0 | 12 | 1 | 271 |
+| last720d | 2024-10-04 | 53 | 127 | 0 | 12 | 1 | 272 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:46:42Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:42:22Z._
