@@ -28,8 +28,8 @@
   srcname: oyo
   binname: oyo
   visiblename: oyo
-  version: 0.1.57
-  origversion: 0.1.57-1
+  version: 0.1.60
+  origversion: 0.1.60-1
   status: newest
   summary: 'A diff viewer that works two ways: step through changes or review a classic scrollable diff'
   maintainers:
@@ -40,8 +40,8 @@
   srcname: oyo-bin
   binname: oyo-bin
   visiblename: oyo-bin
-  version: 0.1.57
-  origversion: 0.1.57-1
+  version: 0.1.60
+  origversion: 0.1.60-1
   status: newest
   summary: 'A diff viewer that works two ways: step through changes or review a classic scrollable diff'
   maintainers:
@@ -54,7 +54,7 @@
   visiblename: textproc/oyo
   version: 0.1.57
   origversion: 0.1.57_2
-  status: newest
+  status: outdated
   summary: Step-through diff viewer
   maintainers:
     - nivit@freebsd.org
