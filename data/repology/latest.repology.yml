@@ -11,6 +11,18 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
+- repo: freebsd
+  srcname: textproc/oyo
+  binname: oyo
+  visiblename: textproc/oyo
+  version: 0.1.60
+  origversion: null
+  status: newest
+  summary: Step-through diff viewer
+  maintainers:
+    - nivit@freebsd.org
+  categories:
+    - textproc
 - repo: alpine_edge
   subrepo: testing
   srcname: oyo
@@ -48,15 +60,3 @@
     - dominiquini@aur
   licenses:
     - MIT
-- repo: freebsd
-  srcname: textproc/oyo
-  binname: oyo
-  visiblename: textproc/oyo
-  version: 0.1.57
-  origversion: 0.1.57_2
-  status: outdated
-  summary: Step-through diff viewer
-  maintainers:
-    - nivit@freebsd.org
-  categories:
-    - textproc
