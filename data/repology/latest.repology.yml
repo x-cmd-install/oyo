@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: oyo
+  binname: oyo
+  visiblename: oyo
+  version: 0.1.61
+  origversion: 0.1.61-1
+  status: newest
+  summary: 'A diff viewer that works two ways: step through changes or review a classic scrollable diff'
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: oyo
@@ -25,18 +37,6 @@
   licenses:
     - MIT
 - repo: aur
-  srcname: oyo
-  binname: oyo
-  visiblename: oyo
-  version: 0.1.61
-  origversion: 0.1.61-1
-  status: newest
-  summary: 'A diff viewer that works two ways: step through changes or review a classic scrollable diff'
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
-- repo: aur
   srcname: oyo-bin
   binname: oyo-bin
   visiblename: oyo-bin
@@ -52,9 +52,9 @@
   srcname: textproc/oyo
   binname: oyo
   visiblename: textproc/oyo
-  version: 0.1.60
+  version: 0.1.61
   origversion: null
-  status: outdated
+  status: newest
   summary: Step-through diff viewer
   maintainers:
     - nivit@freebsd.org
