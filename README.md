@@ -38,22 +38,22 @@ Total: **110,862** lines of code across **119** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 361 · **Forks**: 9 · **Open issues**: 17 · **Contributors**: 7
+- **Stars**: 361 · **Forks**: 10 · **Open issues**: 17 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 134 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 283
+- **Releases**: 57 · **Merged PRs**: 134 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 283
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 4 | 7 | 0 | 4 | 0 | 11 |
-| last60d | 2026-08-30 | 4 | 10 | 0 | 4 | 0 | 14 |
-| 90d | 2026-07-31 | 5 | 12 | 0 | 6 | 0 | 18 |
-| last180d | 2026-05-02 | 28 | 37 | 0 | 11 | 0 | 123 |
-| 360d | 2025-11-03 | 57 | 134 | 0 | 17 | 0 | 282 |
-| last720d | 2024-11-08 | 57 | 134 | 0 | 17 | 0 | 283 |
+| 30d | 2026-09-30 | 4 | 7 | 1 | 4 | 0 | 11 |
+| last60d | 2026-08-31 | 4 | 10 | 1 | 4 | 0 | 14 |
+| 90d | 2026-08-01 | 5 | 12 | 1 | 6 | 0 | 18 |
+| last180d | 2026-05-03 | 28 | 37 | 1 | 11 | 0 | 123 |
+| 360d | 2025-11-04 | 57 | 134 | 1 | 17 | 0 | 282 |
+| last720d | 2024-11-09 | 57 | 134 | 1 | 17 | 0 | 283 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **110,862** lines of code across **119** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/oyo). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/oyo). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:43:41Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:41:20Z._
