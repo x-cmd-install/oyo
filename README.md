@@ -14,11 +14,11 @@ x install oyo
 
 ## Code insight
 
-Total: **110,862** lines of code across **119** files in the top 5 languages.
+Total: **114,825** lines of code across **125** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 97,419 | 1,440 | 8,062 | 67 |
+| Rust | 101,383 | 1,422 | 8,219 | 73 |
 | Json | 11,744 | 0 | 0 | 36 |
 | Css | 488 | 60 | 42 | 2 |
 | Sh | 445 | 126 | 45 | 5 |
@@ -32,41 +32,41 @@ Total: **110,862** lines of code across **119** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.61` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Latest**: `v0.1.64` (2026-11-03)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 362 · **Forks**: 10 · **Open issues**: 17 · **Contributors**: 7
+- **Stars**: 362 · **Forks**: 10 · **Open issues**: 17 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 134 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 283
+- **Releases**: 60 · **Merged PRs**: 141 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 7 | 1 | 4 | 0 | 11 |
-| last60d | 2026-09-04 | 4 | 10 | 1 | 4 | 0 | 13 |
-| 90d | 2026-08-05 | 5 | 12 | 1 | 6 | 0 | 18 |
-| last180d | 2026-05-07 | 28 | 37 | 1 | 10 | 0 | 123 |
-| 360d | 2025-11-08 | 57 | 134 | 1 | 17 | 0 | 282 |
-| last720d | 2024-11-13 | 57 | 134 | 1 | 17 | 0 | 283 |
+| 30d | 2026-10-05 | 7 | 14 | 0 | 4 | 0 | 21 |
+| last60d | 2026-09-05 | 7 | 17 | 0 | 4 | 0 | 23 |
+| 90d | 2026-08-06 | 8 | 19 | 0 | 4 | 0 | 28 |
+| last180d | 2026-05-08 | 31 | 44 | 0 | 10 | 0 | 133 |
+| 360d | 2025-11-09 | 60 | 141 | 0 | 17 | 0 | 292 |
+| last720d | 2024-11-14 | 60 | 141 | 0 | 17 | 0 | 293 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.61/oy-aarch64-apple-darwin.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.61/oy-aarch64-unknown-linux-gnu.tar.gz) | 8.3 MiB | `native/linux/arm64/glibc` |
-| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.61/oy-x86_64-apple-darwin.tar.gz) | 8.2 MiB | `native/darwin/x64` |
-| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.61/oy-x86_64-unknown-linux-gnu.tar.gz) | 8.6 MiB | `native/linux/x64/glibc` |
+| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.64/oy-aarch64-apple-darwin.tar.gz) | 7.8 MiB | `native/darwin/arm64` |
+| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.64/oy-aarch64-unknown-linux-gnu.tar.gz) | 8.5 MiB | `native/linux/arm64/glibc` |
+| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.64/oy-x86_64-apple-darwin.tar.gz) | 8.4 MiB | `native/darwin/x64` |
+| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.64/oy-x86_64-unknown-linux-gnu.tar.gz) | 8.8 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/oyo). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/oyo). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:38:46Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:08:32Z._
