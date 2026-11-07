@@ -14,11 +14,11 @@ x install oyo
 
 ## Code insight
 
-Total: **126,168** lines of code across **143** files in the top 5 languages.
+Total: **127,411** lines of code across **143** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 112,546 | 1,420 | 8,637 | 86 |
+| Rust | 113,789 | 1,420 | 8,691 | 86 |
 | Json | 11,754 | 0 | 0 | 37 |
 | JavaScript | 545 | 42 | 65 | 13 |
 | Css | 488 | 60 | 42 | 2 |
@@ -32,8 +32,8 @@ Total: **126,168** lines of code across **143** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.68` (2026-11-05)
-- **Last commit**: 2026-11-06
+- **Latest**: `v0.1.72` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,27 +42,27 @@ Total: **126,168** lines of code across **143** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 158 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 314
+- **Releases**: 66 · **Merged PRs**: 165 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 11 | 31 | 0 | 4 | 0 | 42 |
-| last60d | 2026-09-07 | 11 | 33 | 0 | 4 | 0 | 44 |
-| 90d | 2026-08-08 | 12 | 36 | 0 | 4 | 0 | 49 |
-| last180d | 2026-05-10 | 35 | 61 | 0 | 10 | 0 | 154 |
-| 360d | 2025-11-11 | 64 | 158 | 0 | 17 | 0 | 313 |
-| last720d | 2024-11-16 | 64 | 158 | 0 | 17 | 0 | 314 |
+| 30d | 2026-10-08 | 13 | 38 | 0 | 4 | 0 | 53 |
+| last60d | 2026-09-08 | 13 | 40 | 0 | 4 | 0 | 55 |
+| 90d | 2026-08-09 | 14 | 43 | 0 | 4 | 0 | 60 |
+| last180d | 2026-05-11 | 37 | 68 | 0 | 10 | 0 | 165 |
+| 360d | 2025-11-12 | 66 | 165 | 0 | 17 | 0 | 324 |
+| last720d | 2024-11-17 | 66 | 165 | 0 | 17 | 0 | 325 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.68/oy-aarch64-apple-darwin.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
-| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.68/oy-aarch64-unknown-linux-gnu.tar.gz) | 9.2 MiB | `native/linux/arm64/glibc` |
-| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.68/oy-x86_64-apple-darwin.tar.gz) | 9.0 MiB | `native/darwin/x64` |
-| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.68/oy-x86_64-unknown-linux-gnu.tar.gz) | 9.5 MiB | `native/linux/x64/glibc` |
+| [oy-aarch64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.72/oy-aarch64-apple-darwin.tar.gz) | 8.6 MiB | `native/darwin/arm64` |
+| [oy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.72/oy-aarch64-unknown-linux-gnu.tar.gz) | 9.4 MiB | `native/linux/arm64/glibc` |
+| [oy-x86_64-apple-darwin.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.72/oy-x86_64-apple-darwin.tar.gz) | 9.1 MiB | `native/darwin/x64` |
+| [oy-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ahkohd/oyo/releases/download/v0.1.72/oy-x86_64-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:31:28Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:54:36Z._
