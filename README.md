@@ -48,12 +48,12 @@ Total: **127,411** lines of code across **143** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 13 | 38 | 0 | 4 | 0 | 53 |
-| last60d | 2026-09-08 | 13 | 40 | 0 | 4 | 0 | 55 |
-| 90d | 2026-08-09 | 14 | 43 | 0 | 4 | 0 | 60 |
-| last180d | 2026-05-11 | 37 | 68 | 0 | 10 | 0 | 165 |
-| 360d | 2025-11-12 | 66 | 165 | 0 | 17 | 0 | 324 |
-| last720d | 2024-11-17 | 66 | 165 | 0 | 17 | 0 | 325 |
+| 30d | 2026-10-09 | 13 | 38 | 0 | 3 | 0 | 53 |
+| last60d | 2026-09-09 | 13 | 40 | 0 | 4 | 0 | 55 |
+| 90d | 2026-08-10 | 14 | 43 | 0 | 4 | 0 | 56 |
+| last180d | 2026-05-12 | 37 | 68 | 0 | 10 | 0 | 165 |
+| 360d | 2025-11-13 | 66 | 165 | 0 | 17 | 0 | 324 |
+| last720d | 2024-11-18 | 66 | 165 | 0 | 17 | 0 | 325 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for oyo lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:54:36Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:53:42Z._
