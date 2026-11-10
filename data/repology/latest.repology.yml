@@ -52,9 +52,9 @@
   srcname: textproc/oyo
   binname: oyo
   visiblename: textproc/oyo
-  version: 0.1.61
+  version: 0.1.72
   origversion: null
-  status: outdated
+  status: newest
   summary: Step-through diff viewer
   maintainers:
     - nivit@freebsd.org
