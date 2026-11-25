@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10224784,
       "digest": "sha256:a7db570c249f99db741ed64b38096e8c012c61e7eb5e02fdc6f6fda8c70298e3",
-      "download_count": 51,
+      "download_count": 53,
       "created_at": "2026-11-07T00:51:53Z",
       "updated_at": "2026-11-07T00:51:54Z",
       "browser_download_url": "https://github.com/ahkohd/oyo/releases/download/v0.1.72/oy-x86_64-unknown-linux-gnu.tar.gz"
